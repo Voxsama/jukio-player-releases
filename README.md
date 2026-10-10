@@ -24,13 +24,14 @@ all shaped by **Sound Lab**: a 10-band EQ, adaptive bass, headphone correction a
 ## 🎵 Your music, offline
 
 <p align="center">
-  <img src="screenshots/o2-album.png" width="240" alt="Album page with play and shuffle">
-  <img src="screenshots/o3-nowplaying.png" width="240" alt="Now playing a 24-bit 96 kHz FLAC, showing source and output">
-  <img src="screenshots/o4-retro.png" width="240" alt="The Retro theme: the cover spins like a vinyl record">
+  <img src="screenshots/o2-album.png" width="200" alt="Album page with play and shuffle">
+  <img src="screenshots/o3-nowplaying.png" width="200" alt="Now playing a 24-bit 96 kHz FLAC through an iFi GO link 2 USB DAC">
+  <img src="screenshots/o5-output.png" width="200" alt="Output details: iFi GO link 2, sample rates up to 384 kHz, 16/24/32-bit">
+  <img src="screenshots/o4-retro.png" width="200" alt="The Retro theme: the cover spins like a vinyl record">
 </p>
 
 - **Finds the music on your phone by itself**: albums, artists, genres, songs and favourites, with covers. No internet needed.
-- **Plays hi-res files**: FLAC up to 24-bit / 192 kHz, plus MP3, AAC, Ogg and WAV. Now Playing shows the exact source format and where the sound goes (speaker, headphones, Bluetooth or a USB DAC).
+- **Plays hi-res files**: FLAC up to 24-bit / 192 kHz, plus MP3, AAC, Ogg and WAV. Now Playing shows the exact source format and where the sound goes: speaker, wired headphones, Bluetooth earbuds or a USB DAC, with the DAC's name and the sample rates it supports.
 - **Volume leveling** so every song plays at the same loudness, **crossfade** (0–12 s) and **gapless** albums
 - **For You** mixes built from what you play and favourite, worked out on your phone
 - **Themes** change the whole look, from Midnight and Aero glass to Retro vinyl, or make your own and share it
@@ -86,6 +87,8 @@ measurements you choose.
 - Independent music: [Audius](https://audius.co)
 - Headphone measurements: [AutoEq](https://github.com/jaakkopasanen/AutoEq) (MIT)
 
-<sub>The albums in the library screenshots are made up for these pictures; any resemblance to real releases is accidental.</sub>
+<sub>The albums in the library screenshots are made up for these pictures; any resemblance to real releases is accidental.
+Screenshots were taken on an emulator with the output simulated as the gear the developer uses (an iFi GO link 2 USB DAC and
+OnePlus Buds 4 Pro); on your phone Jukio shows whatever you connect. Product names belong to their owners; no affiliation.</sub>
 
 **Found a bug or have an idea?** Open an [issue](https://github.com/Voxsama/jukio-player-releases/issues).
