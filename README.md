@@ -90,8 +90,9 @@ Android Auto only shows apps from the Play Store until you allow others. Do this
 ## Privacy
 
 No account, no ads, no tracking. Your library, favourites and listening history stay on your phone.
-Jukio only goes online to check for updates, load radio stations and Audius songs, and download headphone
-measurements you choose.
+Jukio only goes online to check for updates, load radio stations and Audius and Jamendo songs, download headphone
+measurements you choose, and find covers for albums that have none (only the album and artist name are sent, to
+MusicBrainz / Cover Art Archive or iTunes; you can turn this off in Settings).
 
 ## Thanks
 
