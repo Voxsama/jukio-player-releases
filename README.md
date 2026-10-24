@@ -75,6 +75,18 @@ all shaped by **Sound Lab**: a 10-band EQ, adaptive bass, headphone correction a
 
 **Prefer automatic updates from GitHub?** Add `https://github.com/Voxsama/jukio-player-releases` in [Obtainium](https://github.com/ImranR98/Obtainium).
 
+## 🚗 Android Auto
+
+Jukio works in the car (from version 1.4.0): browse your music, radio and free music on the car screen, or just say
+*"Hey Google, play Get Lucky on Jukio"*. Sound Lab comes along, with its own settings for the car.
+
+Android Auto only shows apps from the Play Store until you allow others. Do this once on your phone:
+
+1. Open **Android Auto** settings (on most phones: Settings → Connected devices → Android Auto).
+2. Scroll down and tap **Version** 10 times, then confirm to turn on developer settings.
+3. Tap **⋮** (top right) → **Developer settings** → turn on **Unknown sources**.
+4. Reconnect your phone to the car. Jukio is now in the app list.
+
 ## Privacy
 
 No account, no ads, no tracking. Your library, favourites and listening history stay on your phone.
