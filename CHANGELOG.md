@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.6.8 — 2026-11-06
+
+### New
+- Swipe covers like you actually meant to skip, plus 32-bit float audio and bit-perfect mixer requests
+
+### Fixed
+- keep the hi-res plan in the roadmap after the rebase
+
 ## 1.6.7 — 2026-11-06
 
 ### New
