@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.6.9 — 2026-11-06
+
+### Fixed
+- Playback service stops crashing on startup before having a cup of coffee
+
 ## 1.6.8 — 2026-11-06
 
 ### New
