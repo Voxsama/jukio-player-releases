@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.6.10 — 2026-11-07
+
+### Fixed
+- Now Playing UI layout insets and safe audio mixer policy integration
+
 ## 1.6.9 — 2026-11-06
 
 ### Fixed
