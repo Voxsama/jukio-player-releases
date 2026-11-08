@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.6.11 — 2026-11-08
+
+### New
+- Three looks of your own, and typefaces that finally spell Malayalam right
+
 ## 1.6.10 — 2026-11-07
 
 ### Fixed
