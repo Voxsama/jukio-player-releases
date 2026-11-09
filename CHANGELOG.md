@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.6.12 — 2026-11-09
+
+### New
+- The three directions become three different pages, not three different colours
+
+### Fixed
+- stop a leftover USB mixer setting from quietly changing the output rate
+
 ## 1.6.11 — 2026-11-08
 
 ### New
