@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.6.13 — 2026-11-10
+
+### Fixed
+- a library scan no longer takes forever, and restoring a backup keeps your app
+
 ## 1.6.12 — 2026-11-09
 
 ### New
