@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.6.14 — 2026-11-10
+
+### Fixed
+- Jukio no longer reaches into your own network when a radio station says so
+
 ## 1.6.13 — 2026-11-10
 
 ### Fixed
