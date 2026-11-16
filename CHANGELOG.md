@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.6.16 — 2026-11-16
+
+### Fixed
+- The shuffle button on Now Playing now actually shuffles
+
 ## 1.6.15 — 2026-11-16
 
 ### Fixed
