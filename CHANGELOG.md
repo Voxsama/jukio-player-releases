@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.6.15 — 2026-11-16
+
+### Fixed
+- the code-map files graphify makes stay out of the repo
+- Turning shuffle on now actually shuffles your queue
+
 ## 1.6.14 — 2026-11-10
 
 ### Fixed
