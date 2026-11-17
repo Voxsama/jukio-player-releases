@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.6.17 — 2026-11-17
+
+### Fixed
+- The Up Next list updates after shuffle turns on
+
 ## 1.6.16 — 2026-11-16
 
 ### Fixed
