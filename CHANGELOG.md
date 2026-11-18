@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.6.18 — 2026-11-18
+
+### Better
+- YouTube Music style UP NEXT and LYRICS tabs on Now Playing
+
+### Fixed
+- compile error in JukioScrubber and stale direction count in tests
+
+### Changes
+- Pirate Radio: a fifth theme direction (neon broadcast-desk look)
+
 ## 1.6.17 — 2026-11-17
 
 ### Fixed
